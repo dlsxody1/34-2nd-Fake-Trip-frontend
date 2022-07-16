@@ -42,7 +42,8 @@
 ### **구현 기능**
 
 - 카카오톡 로그인을 구현했습니다.
-- 구현구현
+- ![kakao원리](https://user-images.githubusercontent.com/62875596/179350634-e15adbd0-8819-4d91-b1a6-3a79ef449a3c.PNG)
+
 
 ## **Reference**
 
